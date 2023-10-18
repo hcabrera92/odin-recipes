@@ -8,4 +8,4 @@ The Odin Project has been really interesting to me, I've retaken this course alm
 
 On the past days I've managed to understad better a lot of Git, which is mind blowing to me. I believe there is lot to learn and I'm really excited about what the future holds.
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
