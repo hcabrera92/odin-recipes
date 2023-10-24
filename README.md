@@ -1,6 +1,6 @@
 # odin-recipes
 
-Dairy of Noob Coder 
+Dairy of a Noob Coder 
 
 17/10/2023 
 
@@ -11,7 +11,7 @@ On the past days I've managed to understad better a lot of Git, which is mind bl
 ------------------------------------------------------------------------------------------------------------------------------------
 23/10/2023 
 
-Today, I had the opportunity to apply a significant (I would;nt say significant after all, but hey everything counts right?) amount of CSS, thanks to The Odin Project. It's always rejuvenating to revisit familiar concepts and realize that there is still much to learn. It's quite satisfying to work through problems, verify the solutions, and discover that they are indeed correct.
+Today, I had the opportunity to apply a significant (I would'nt say significant after all, but hey everything counts right?) amount of CSS, thanks to The Odin Project. It's always rejuvenating to revisit familiar concepts and realize that there is still much to learn. It's quite satisfying to work through problems, verify the solutions, and discover that they are indeed correct.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
